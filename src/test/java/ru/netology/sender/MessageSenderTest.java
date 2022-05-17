@@ -10,7 +10,7 @@ import ru.netology.i18n.LocalizationService;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TestMessageSender {
+public class MessageSenderTest {
 
     @Test
     void testSendToAddressWithRussanIP() {
